@@ -16,7 +16,7 @@ void pilihan()
 void Input()
 { 
     int i,j;
-    printf("\n===============Matrik yuhuuu===============\n");
+    printf("\n===============Matrik BAMBANG===============\n");
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
@@ -25,7 +25,7 @@ void Input()
         }
 }
  
-    printf("\n===============Matriks yuyuuuu===============\n"); 
+    printf("\n===============Matriks BAMBANG===============\n"); 
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){

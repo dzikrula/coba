@@ -16,8 +16,9 @@ void pilihan()
 void Input()
 { 
     int i,j;
+
     printf("\n===============Matrik babayaga===============\n");
- 
+
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
             printf("Input Matrix A[%d][%d] : ",i, j);
@@ -25,7 +26,7 @@ void Input()
         }
 }
  
-    printf("\n===============Matriks yuyuuuu===============\n"); 
+    printf("\n===============Matriks bibiyigi===============\n"); 
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){

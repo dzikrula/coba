@@ -16,7 +16,7 @@ void pilihan()
 void Input()
 { 
     int i,j;
-    printf("\n===============Matriks A===============\n");
+    printf("\n===============Matriks AB===============\n");
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
@@ -25,7 +25,7 @@ void Input()
         }
 }
  
-    printf("\n===============Matriks B===============\n"); 
+    printf("\n===============Matriks BC===============\n"); 
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){

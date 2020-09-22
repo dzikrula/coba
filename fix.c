@@ -17,7 +17,7 @@ void Input()
 { 
     int i,j;
 
-    printf("\n===============Matrik babayaga===============\n");
+    printf("\n===============Matrik A===============\n");
 
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
@@ -26,7 +26,7 @@ void Input()
         }
 }
  
-    printf("\n===============Matriks bibiyigi===============\n"); 
+    printf("\n===============Matriks B===============\n"); 
  
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){

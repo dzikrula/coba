@@ -17,7 +17,7 @@ void Input()
 { 
     int i,j;
 
-    printf("\n===============Matrik A===============\n");
+    printf("\n===============Matrik a===============\n");
 
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){

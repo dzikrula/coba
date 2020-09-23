@@ -16,7 +16,7 @@ void pilihan()
 void Input()
 { 
     int i,j;
-    printf("\n===============Matrik A===============\n");
+    printf("\n===============hmmmmm===============\n");
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
             printf("Input Matrix A[%d][%d] : ",i, j);

@@ -17,7 +17,6 @@ void Input()
 { 
     int i,j;
     printf("\n===============Matrik A===============\n");
- 
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
             printf("Input Matrix A[%d][%d] : ",i, j);
@@ -26,7 +25,6 @@ void Input()
 }
  
     printf("\n===============Matriks B===============\n"); 
- 
     for (i=0; i<2; i++){
         for (j=0; j<2; j++){
             printf("Input Matrix B[%d][%d] : ",i, j);
